@@ -1,0 +1,94 @@
+
+body, h1, h2, p, ul, li {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+body {
+  font-family: Arial, sans-serif;
+  background-color:bisque;
+  color: #333;
+  line-height: 1.6;
+}
+
+
+.section {
+  padding: 40px 20px;
+}
+
+
+
+.header {
+  text-align: center;
+  margin-bottom: 20px;
+  background-color: aquamarine;
+}
+
+.Title {
+  font-size: 42px;
+  color: #222;
+}
+
+.Lista nav {
+  margin: 20px 0;
+}
+
+.navbar {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  gap: 15px;
+  padding: 10px 0;
+  background-color: #eaeaea;
+  border-radius: 5px;
+}
+
+.navbar li a {
+  text-decoration: none;
+  color: #007BFF;
+  font-weight: bold;
+  padding: 8px 12px;
+  transition: background 0.3s, color 0.3s;
+}
+
+.navbar li a:hover {
+  background-color: #007BFF;
+  color: white;
+  border-radius: 4px;
+}
+
+.bodyClass {
+  margin-top: 30px;
+  font-size: 20px;
+}
+
+.TitleClass {
+  font-size: 35px;
+  color: #444;
+  margin-bottom: 10px;
+}
+
+.contentClass p {
+  font-size: 16px;
+  color: #555;
+}
+
+.png {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height:50vh;
+}
+.ERROR {
+  list-style: none; /* Quitar la viñeta */
+  padding: 0;
+}
+
+.ERROR li {
+  font-size: 28px; /* Tamaño del texto */
+  color: red;      /* Color del texto */
+  text-align: center; /* Alineación centrada */
+  font-weight: bold;
+}
