@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 Allow: /
-Sitemap: htt://127.0.0.1:1111/sitemap.xml
+Sitemap: https://ivznko.github.io/sitemap.xml

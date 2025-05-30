@@ -1,47 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>htt://127.0.0.1:1111/</loc>
+        <loc>https://ivznko.github.io/</loc>
     </url>
     <url>
-        <loc>htt://127.0.0.1:1111/about/</loc>
+        <loc>https://ivznko.github.io/about/</loc>
     </url>
     <url>
-        <loc>htt://127.0.0.1:1111/blog/</loc>
+        <loc>https://ivznko.github.io/blog/</loc>
     </url>
     <url>
-        <loc>htt://127.0.0.1:1111/blog/apof/</loc>
+        <loc>https://ivznko.github.io/blog/apof/</loc>
         <lastmod>2025-05-29</lastmod>
     </url>
     <url>
-        <loc>htt://127.0.0.1:1111/blog/appweb/</loc>
+        <loc>https://ivznko.github.io/blog/appweb/</loc>
         <lastmod>2025-05-29</lastmod>
     </url>
     <url>
-        <loc>htt://127.0.0.1:1111/blog/digi/</loc>
+        <loc>https://ivznko.github.io/blog/digi/</loc>
         <lastmod>2025-05-29</lastmod>
     </url>
     <url>
-        <loc>htt://127.0.0.1:1111/blog/ingles/</loc>
+        <loc>https://ivznko.github.io/blog/ingles/</loc>
         <lastmod>2025-05-29</lastmod>
     </url>
     <url>
-        <loc>htt://127.0.0.1:1111/blog/ipe/</loc>
+        <loc>https://ivznko.github.io/blog/ipe/</loc>
         <lastmod>2025-05-29</lastmod>
     </url>
     <url>
-        <loc>htt://127.0.0.1:1111/blog/redes/</loc>
+        <loc>https://ivznko.github.io/blog/redes/</loc>
         <lastmod>2025-05-29</lastmod>
     </url>
     <url>
-        <loc>htt://127.0.0.1:1111/blog/som/</loc>
+        <loc>https://ivznko.github.io/blog/som/</loc>
         <lastmod>2025-05-29</lastmod>
     </url>
     <url>
-        <loc>htt://127.0.0.1:1111/blog/sost/</loc>
+        <loc>https://ivznko.github.io/blog/sost/</loc>
         <lastmod>2025-05-29</lastmod>
     </url>
     <url>
-        <loc>htt://127.0.0.1:1111/contacto/</loc>
+        <loc>https://ivznko.github.io/contacto/</loc>
     </url>
 </urlset>
